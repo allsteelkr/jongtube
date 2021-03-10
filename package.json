@@ -1,0 +1,10 @@
+{
+  "name": "jongtube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube withe Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "jongnam",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
